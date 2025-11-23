@@ -70,8 +70,11 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 ## 📸 Screenshots
 
 | Login Page | Home Dashboard | Swagger API |
-|-----------|---------------|-------------|
-| ![Image1](screenshots/login.png) | ![Image2](screenshots/dashboard.png) | ![Image3](screenshots/swagger.png) |
+
+## 🔐 Login Page
+
+![Login Page](https://raw.githubusercontent.com/Amitdangebtl/EmployeeManagementAPI/master/LoginPage.png)
+
 
 
 (Abhi bina images ke, baad me folder me screenshot daal kar link update kar dena)
