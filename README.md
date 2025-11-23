@@ -42,7 +42,6 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 │— API Service Calls  
 │— Scripts  
 
-6️⃣ How to Run
 ## ▶ How to Run
 
 1. Download or Clone this Repository  
