@@ -1,11 +1,7 @@
-1️⃣ Project Title
 # Employee Management System (ASP.NET WebForms + Web API)
 
-2️⃣ Short Description
 A complete Employee Management System built using ASP.NET Web API for backend and ASP.NET WebForms for frontend. 
 The project includes Authentication, Email Verification, Excel Import, and Secure CRUD operations with JWT-based security and layered architecture.
-
-3️⃣ Features
 
 ## 🚀 Features
 
@@ -20,7 +16,6 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 ✔ ASP.NET WebForms Frontend Connected with Web API  
 ✔ SQL Server Database with EF Core Migrations  
 
-4️⃣ Tech Stack
 ## 🛠 Tech Stack
 
 - ASP.NET Web API  
@@ -30,10 +25,6 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 - Swagger UI  
 - JWT Authentication  
 - C#  
-
-5️⃣ Project Structure
-
-(Ye bhi paste karna hai)
 
 ## 📁 Project Structure
 
@@ -99,7 +90,6 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 
 👉 https://raw.githubusercontent.com/Amitdangebtl/EmployeeManagementAPI/master/ASP.Net%20Core%20Swagger.png
 
-8️⃣ Author Info
 ## 👤 Author
 
 Amit Dange  
