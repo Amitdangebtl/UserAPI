@@ -255,6 +255,7 @@ WHERE u.[Email] = @Email AND u.[PasswordHash] = @Hash;", con);
         [HttpPost("reset-password")]
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordDto dto)
         {
+            // GitHub Test Commit
             if (dto == null || string.IsNullOrWhiteSpace(dto.Token) || string.IsNullOrWhiteSpace(dto.NewPassword))
                 return BadRequest("Token and newPassword are required.");
 
