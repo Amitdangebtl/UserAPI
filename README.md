@@ -63,24 +63,43 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 5. Run the project (IIS Express) — Swagger will open automatically  
 6. Open WebForms Frontend and test the features  
 
-7️⃣ Screenshots (Optional but highly recommended)
+📷 Application Screenshots
 
-👉 Aap yaha add kar sakte ho:
+🔹 Register Page
 
-## 📷 Application Screenshots
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/RegisterPage.png
 
-### 🔹 Login Page
-![Login Page](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/LoginPage.png)
+🔹 Login Page
 
-### 🔹 Home Page
-![Home Page](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/HomePage.png)
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/LoginPage.png
 
-### 🔹 User List (Search, Filter, Upload Excel)
-![User List](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/ListofData.png)
+🔹 Email Verification
 
-### 🔹 API Documentation (Swagger)
-![Swagger Page](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/ASP.Net%20Core%20Swagger.png)
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/Email%20Verification.png
 
+🔹 Check Email Verification
+
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/Check%20Email%20Verification.png
+
+🔹 Forgot Password
+
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/ForgotPassword.png
+
+🔹 Reset Password
+
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/Set%20ForgotPassword.png
+
+🔹 Home Page
+
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/HomePage.png
+
+🔹 User List (Search, Filter, Upload Excel)
+
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/ListofData.png
+
+🔹 API Documentation (Swagger)
+
+https://github.com/Amitdangebtl/EmployeeManagementAPI/blob/master/ASP.Net%20Core%20Swagger.png
 
 8️⃣ Author Info
 ## 👤 Author
