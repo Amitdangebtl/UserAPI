@@ -69,13 +69,17 @@ The project includes Authentication, Email Verification, Excel Import, and Secur
 
 ## 📸 Screenshots
 
-| Login Page | Home Dashboard | Swagger API |
+## 📌 Login Page
+![Login](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/LoginPage.png)
 
-## 🔐 Login Page
+## 📌 Home Page
+![Home](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/HomePage.png)
 
-![Login Page](https://raw.githubusercontent.com/Amitdangebtl/EmployeeManagementAPI/master/LoginPage.png)
+## 📌 User List Page
+![Users List](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/ListofData.png)
 
-
+## 📌 API Swagger Screen
+![Swagger](https://github.com/Amitdangebtl/EmployeeManagementAPI/raw/master/ASP.Net Core Swagger.png)
 
 (Abhi bina images ke, baad me folder me screenshot daal kar link update kar dena)
 
